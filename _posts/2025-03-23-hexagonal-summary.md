@@ -1,4 +1,5 @@
 ---
+published: true
 title: 헥사고날 아키텍처와 DDD에 대한 개념 정리
 date: 2025-03-23 12:39:14 +09:00
 categories: [백엔드, 아키텍처]

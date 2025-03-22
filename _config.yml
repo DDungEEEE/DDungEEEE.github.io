@@ -15,7 +15,6 @@ timezone:
 # ↓ --------------------------
 
 title: LogCat - Backend Edition # the main title
-published: true
 future: true
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
