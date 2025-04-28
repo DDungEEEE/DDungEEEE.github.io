@@ -1,7 +1,7 @@
 ---
 published: true
 title: Spring Security 로그인 처리 고민과 회고
-date: 2025-04-28 18:28:00 +09:00
+date: 2025-04-27 18:28:00 +09:00
 categories: [백엔드, 스프링부트]
 tags:
   [스프링부트 로그인, filter를 사용한 로그인, 스프링 시큐리티]
