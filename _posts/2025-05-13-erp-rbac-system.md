@@ -1,15 +1,11 @@
 ---
 published: true
-title: 
+title: 유동적인 권한 관리 시스템 설계 – ERP 프로젝트에서의 RBAC 고민
 date: 2025-05-13 14:20:00 +09:00
 categories: [백엔드, RBAC, ERP]
 tags:
   [ERP, RBAC, 권한설계, Spring Security]
 ---
-
-# 유동적인 권한 관리 시스템 설계하기 – ERP 프로젝트에서의 RBAC 고민
-
-## 배경
 
 ERP 프로젝트의 요구사항을 분석하던 중, 루트 권한을 가진 `ADMIN` 사용자가 시스템 내에서 역할(Role)을 생성하고, 역할에 따른 권한(Permission)을 부여할 수 있도록 하는 기능이 필요하다는 요구사항이 도출되었다.
 
